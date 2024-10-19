@@ -3,7 +3,8 @@ title: "Market Sentiment Analysis"
 author: "Rezabahremand"
 logo: "path/to/logo.png"  # Path to logo (if you have one)
 copyright: "2024 Rezabahremand"
-
+execute:
+  execute_notebooks: off
 # Define the format of the book
 format:
   html:
