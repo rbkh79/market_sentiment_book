@@ -34,7 +34,6 @@ html:
 toc:
   includehidden: false  # Whether to show hidden sections in the TOC
   sections:
-    - file: intro
     - file: continual_learning
     - file: market_sentiment
 
