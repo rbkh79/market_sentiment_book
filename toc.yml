@@ -1,5 +1,5 @@
 format: jb-book
-root: market_sentiment
+root: continual_learning  
 chapters:
   - file: continual_learning
   - file: market_sentiment
